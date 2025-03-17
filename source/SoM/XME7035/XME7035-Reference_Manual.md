@@ -1,4 +1,4 @@
-# **XME7035 参考手册**
+# **XME7035 用户手册**
 
 [English](https://microphase-doc.readthedocs.io/en/latest/SoM/XME7035/XME7035-Reference_Manual.html)
 
